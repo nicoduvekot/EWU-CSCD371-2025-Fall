@@ -24,3 +24,6 @@
 - [Development Principles to follow](https://deviq.com/category/principles/)
 - [Design Patterns](https://deviq.com/category/patterns/) ways to structure you code to solve various problems.
 - [Anti Patterns](https://deviq.com/category/antipatterns/) ways to make your code horrible.
+
+## Copilot/AI Resources
+- [GitHub Copilot](https://github.com/features/copilot/tutorials)
