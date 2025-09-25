@@ -1,5 +1,3 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-
 namespace PrincessBrideTrivia.Tests;
 
 [TestClass]
@@ -18,7 +16,7 @@ public class ProgramTests
             Question[] questions = Program.LoadQuestions(filePath);
 
             // Assert 
-            Assert.AreEqual(2, questions.Length);
+            Assert.HasCount(2, questions);
         }
         finally
         {
@@ -59,7 +57,7 @@ public class ProgramTests
     [DataRow(5, 10, "50%")]
     [DataRow(1, 10, "10%")]
     [DataRow(0, 10, "0%")]
-    public void GetPercentCorrect_ReturnsExpectedPercentage(int numberOfCorrectGuesses, 
+    public void GetPercentCorrect_ReturnsExpectedPercentage(int numberOfCorrectGuesses,
         int numberOfQuestions, string expectedString)
     {
         // Arrange
