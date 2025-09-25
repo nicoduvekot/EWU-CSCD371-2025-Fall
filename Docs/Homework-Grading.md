@@ -18,6 +18,11 @@ Students are ***REQUIRED*** to [pair program](https://en.wikipedia.org/wiki/Pair
 
 Each assignment is a total of 70 points. Assignment may contain up to 10 points of extra credit (will be specified in the assignment).
 
+There will be 1000 points available in the class. The breakdown of points is as follows:
+
+- 700 points for assignments (10 assignments, 70 points each).
+- 300 points (weighted) for exams.
+
 ### Main Assignment ###
 
 #### (40 points + potentially 10 points extra credit) ####

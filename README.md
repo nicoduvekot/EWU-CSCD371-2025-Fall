@@ -1,4 +1,4 @@
-# EWU-CSCD371-2024-Fall
+# EWU-CSCD371-2025-Fall
 
 ## About the Essential C# Class
 
@@ -6,7 +6,7 @@
 
 [Mark Michaelis](https://github.com/MarkMichaelis), and [Benjamin Michaelis](https://github.com/BenjaminMichaelis)
 
-For any general questions, we suggest asking in [EWU-CSCD371-2024-Fall Microsoft Team's Channel](https://teams.microsoft.com/l/channel/19%3APqQNSyljsFKuv1NPEw0n4i7WtfFr_yq2qb-Bw2WaLuU1%40thread.tacv2/General?groupId=aaeb7301-d4ff-4c7b-af53-ea99754316b2&tenantId=37321907-14a5-4390-987d-ec0c66c655cd). This is a great place to collaborate and ask questions of both each other and the instructors. Though you can message people directly, we encourage open discussion on the meeting chat so that others can benefit as well.
+For any general questions, we suggest asking in [EWU-CSCD371-2025-Fall Microsoft Teams](https://teams.microsoft.com/l/team/19%3A-qnYSd-Fm7uabbbLd3oiQnINgh_hyKqXMjgnG3Wc-X41%40thread.tacv2/conversations?groupId=d09b519d-908f-4c2d-82fd-f12f2b7c64b1&tenantId=37321907-14a5-4390-987d-ec0c66c655cd). This is a great place to collaborate and ask questions of both each other and the instructors. Though you can message people directly, we encourage open discussion on the meeting chat so that others can benefit as well.
 
 You may send an e-mail with questions that are specific to you to <EWU-Instructors@IntelliTect.com>. Examples include:
 
@@ -19,7 +19,7 @@ Class will NOT generally be available online.
 
 #### GitHub Information
 
-Please fill out this [Form](https://forms.office.com/r/b02Uv5u0fe) with your GitHub information. This is used by us so we can appropriately grade assignments.
+Please fill out this [Form](https://forms.cloud.microsoft/r/c6vx049NRa) with your GitHub information. This is used by us so we can appropriately grade assignments.
 
 #### Book
 
@@ -32,7 +32,7 @@ Please fill out this [Form](https://forms.office.com/r/b02Uv5u0fe) with your Git
 * **Office Hours**: Office hours are available before class on Tuesdays and Thursdays starting at 1 PM.  To ensure that an instructor will be available, please schedule an appointment 24-hours beforehand by sending a meeting request email to <EWU-Instructors@IntelliTect.com>.  Alternative times may be available after class upon request.
 * **Code for the Website**: <https://github.com/IntelliTect/EssentialCSharp.Web>
 * **Code for the Book Examples**: <https://github.com/IntelliTect/EssentialCSharp>
-* [Teams Chat Room](https://teams.microsoft.com/l/channel/19%3APqQNSyljsFKuv1NPEw0n4i7WtfFr_yq2qb-Bw2WaLuU1%40thread.tacv2/General?groupId=aaeb7301-d4ff-4c7b-af53-ea99754316b2&tenantId=37321907-14a5-4390-987d-ec0c66c655cd)
+* [Teams Chat Room](https://teams.microsoft.com/l/team/19%3A-qnYSd-Fm7uabbbLd3oiQnINgh_hyKqXMjgnG3Wc-X41%40thread.tacv2/conversations?groupId=d09b519d-908f-4c2d-82fd-f12f2b7c64b1&tenantId=37321907-14a5-4390-987d-ec0c66c655cd)
 
 #### Computer Setup
 
@@ -44,6 +44,7 @@ Though most of the coursework will be cross-platform, we will be working on Wind
 
 ###### Recommended
 
+* [Visual Studio 2026](https://visualstudio.microsoft.com/insiders/)
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/)
   Version 17.8 or later. The community edition is fine, though we believe most students should have access to higher SKUs with EWU's MSDN (this assumption may be wrong). Lab computers should have Visual Studio Professional (or higher) already installed. When installing, select the **“ASP.NET and web development” workload**.
 * [GitHub Student Developer Pack](https://education.github.com/students)
@@ -59,7 +60,8 @@ Though most of the coursework will be cross-platform, we will be working on Wind
 
 #### Class Video
 
-We will try to record the class so that students can review it at a later time. [Recordings will be available here (Under files in the teams channel)](https://intellitectsp.sharepoint.com/:f:/r/sites/EWU-CSCD371-2024-Fall/Shared%20Documents/General/Class%20Recordings).
+We will try to record the class so that students can review it at a later time. [Recordings will be available here (Under files in the teams channel)](https://intellitectsp.sharepoint.com/:f:/s/EWU-CSCD371-2025-Fall/EowJPXpsONBNs-wRVdqPP-YB6WzQMUvgqodUOy_J-94jWw?e=DydkO7).
+
 Please note:
 
 * **Do not expect or rely on video recordings.**  We are not making any commitment to having video recordings of the class.

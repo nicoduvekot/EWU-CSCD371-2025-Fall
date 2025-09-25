@@ -1,6 +1,6 @@
 # Schedule
 
-- [Recording Links](https://intellitectsp.sharepoint.com/:f:/r/sites/EWU-CSCD371-2024-Fall/Shared%20Documents/General/Class%20Recordings)
+- [Recording Links](tbd)
 - This is an MS Teams link and everyone in the class should have access. If not, please contact an instructor.
 
 ## TENTATIVE Schedule
@@ -9,7 +9,7 @@
 
 ## Week 1 - Assignment 1
 
-### 9/26
+### 9/25
 
 - Syllabus
 - Intro to Git
