@@ -49,7 +49,7 @@ Though most of the coursework will be cross-platform, we will be working on Wind
   Version 17.8 or later. The community edition is fine, though we believe most students should have access to higher SKUs with EWU's MSDN (this assumption may be wrong). Lab computers should have Visual Studio Professional (or higher) already installed. When installing, select the **“ASP.NET and web development” workload**.
 * [GitHub Student Developer Pack](https://education.github.com/students)
   There are lots of great development tools and resources. The JetBrains products ReSharper (a plugin for Visual Studio), and Rider (a full C# IDE) are great tools for helping you write better code.
-* [GitKraken](https://www.gitkraken.com/invite/bX2Nqsqr)
+* [GitKraken](https://gitkraken.cello.so/tl7bYaRLgzT)
   Though you can do all of the git interaction from within Visual Studio or on the command line, GitKraken is free for open-source work. It also provides a nice graphical version of the commit history so you can see how various commits and branches relate.
 
 ###### Optional

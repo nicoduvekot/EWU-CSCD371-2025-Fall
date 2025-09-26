@@ -13,29 +13,29 @@
 
 - Syllabus
 - Intro to Git
+- Git Fundamentals
 
 ## Week 2
 
-### 10/1
+### 9/30
 
-- Git Fundamentals
 - Intro to C#
-
-### 10/3
-
 - Testing
 - PR's and PR Reviews
 - Due: Assignment 1
 
-## Week 3 - Assignment 2
+### 10/3
+- Data Types
+- Analyzers
+
+
+<!-- ## Week 3 - Assignment 2
 
 ### 10/8
+- nullables
+- string interpolation
 
 - Go over Assignment 1
-- Data Types
-- nullables
-- Analyzers
-- string interpolation
 
 ### 10/10
 
@@ -125,4 +125,4 @@
 ## Finals Week
 
 - No Class
-- Due: Assignment 9&10
+- Due: Assignment 9&10 -->
