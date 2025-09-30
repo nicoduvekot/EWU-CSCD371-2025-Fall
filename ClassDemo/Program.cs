@@ -1,4 +1,6 @@
-﻿namespace ClassDemo
+﻿using System;
+
+namespace ClassDemo
 {
     public class Program
     {
@@ -7,20 +9,21 @@
             System.Console.WriteLine("Hello, World!");
         }
 
-        public bool Login(string username, string password)
+        public void Login(string username, string password)
         {
-            if (username == "InigoMontoya" && password == "goodpassword")
+            if (!TryLogin(username, password))
+            {
+                throw new InvalidOperationException("Invalid username or password");
+            }
+        }
+
+        public bool TryLogin(string username, string password)
+        {
+            if (password == "goodpassword")
             {
                 return true;
             }
-            else if (username == "admin" && password == "goodpassword")
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return false;
         }
     }
 }
