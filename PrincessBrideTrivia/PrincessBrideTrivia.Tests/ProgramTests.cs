@@ -57,6 +57,10 @@ public class ProgramTests
     [DataRow(5, 10, "50%")]
     [DataRow(1, 10, "10%")]
     [DataRow(0, 10, "0%")]
+    [DataRow(0, 0, "0%")]       
+    [DataRow(2, 7, "28%")]       
+    [DataRow(3, 7, "42%")]       
+    [DataRow(6, 7, "85%")]
     public void GetPercentCorrect_ReturnsExpectedPercentage(int numberOfCorrectGuesses,
         int numberOfQuestions, string expectedString)
     {
